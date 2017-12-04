@@ -51,7 +51,7 @@ def signal_handler(signum, frame):
 
 
 def main():
-    print("A Terminal Tools For agent Agent")
+    print("A Terminal Tools For proxy")
     signal.signal(signal.SIGINT, signal_handler)
     signal.signal(signal.SIGTERM, signal_handler)
     parse_command()
