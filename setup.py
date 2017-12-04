@@ -4,7 +4,7 @@
 #############################################
 # File Name: setup.py
 # Author: mafei
-# Mail: fei.ma03@ele.me
+# Mail: logan62334@gmail.com
 # Created Time:  2017-06-26 01:25:34 AM
 #############################################
 
