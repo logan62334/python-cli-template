@@ -27,8 +27,7 @@ setup(
     include_package_data=True,
     zip_safe=True,
     platforms="any",
-    install_requires=["requests", "bottle", "click", "shutit", "enum34", "appetizer", "selenium", "apscheduler",
-                      "raven", "bs4", "flask", "urllib3", "qiniu"],
+    install_requires=["click", "shutit"],
     entry_points={
         'console_scripts': [
             'proxy = proxy.cli:main'
