@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 import unittest
 
-import agent.util.host as host
+import proxy.util.host as host
 
 
 class TestHost(unittest.TestCase):
