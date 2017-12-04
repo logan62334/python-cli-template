@@ -21,7 +21,7 @@ setup(
 
     author="mafei",
     author_email="logan62334@gmail.com",
-    url="https://git.elenet.me/waimaiqa/qualityplatform.agent.git",
+    url="https://github.com/logan62334/python-cli-template",
 
     packages=find_packages(),
     include_package_data=True,
